@@ -12,7 +12,7 @@ function App() {
 
   return (
     <div>
-      <h1>Dados do Banco</h1>
+      <h1>Hello World!</h1>
       <ul>
         {dados.map((item) => (
           <li key={item.id}>{item.nome}</li>

@@ -2,6 +2,20 @@
 ### Este projeto foi criado para o desenvolvimento do trabalho da disciplina de Engenharia de Software do terceiro semestre da UCB. O trabalho consiste na criação de um sistema CRUD (Create, Read, Update, Delete) e deve incluir funcionalidades básicas de cadastramento e login.
 
 #
+
+### dependencias: 
+
+- npm install express mysql cors dotenv
+
+- npm start
+
+- npm init -y
+
+- donwload sqlite sudo apt update && sudo apt install sqlite3(unix)
+
+
+#
+
 ## creditos
 
 - João Vitor Alves Bittencourt(back end,Banco de dados Mysql, Design Front End)
